@@ -1,4 +1,4 @@
 # Collaborators:
-### Sujal Kulshrestha
-### Saumya Srivastava
-### Navya Bhandari
+* ### Sujal Kulshrestha
+* ### Saumya Srivastava
+* ### Navya Bhandari
